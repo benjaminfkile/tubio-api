@@ -22,7 +22,7 @@
     "express": "^4.16.4",
     "helmet": "^3.22.0",
     "morgan": "^1.9.1",
-    "ytdl-core": "^2.0.1"
+    "ytdl-core": "^2.1.5"
   },
   "devDependencies": {
     "chai": "^4.2.0",
