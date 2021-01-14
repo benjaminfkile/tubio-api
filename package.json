@@ -23,7 +23,7 @@
     "helmet": "^3.22.0",
     "morgan": "^1.9.1",
     "ytdl": "^1.4.1",
-    "ytdl-core": "^4.1.4"
+    "ytdl-core": "^4.4.3"
   },
   "devDependencies": {
     "chai": "^4.2.0",
